@@ -1,0 +1,9 @@
+Finding Kernel and distribution release
+
+Finding your kernel release
+
+uname -r
+
+Finding your distribution release
+
+lsb_release -a
